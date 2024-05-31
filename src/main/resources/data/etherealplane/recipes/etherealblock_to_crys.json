@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category" : "building",
+  "ingredients" : [
+    {
+      "item": "etherealplane:ethereal_block"
+    }
+  ],
+  "result": {
+    "id": "etherealplane:ethereal_crystal",
+    "count": 9
+  }
+}

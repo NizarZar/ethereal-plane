@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "etherealplane:ethereal_crystal"
+    }
+  },
+  "result": {
+    "id": "etherealplane:ethereal_block"
+  }
+}

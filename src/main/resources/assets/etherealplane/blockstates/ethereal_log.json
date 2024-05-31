@@ -1,0 +1,7 @@
+{
+  "variants" : {
+    "": {
+      "model": "etherealplane:block/ethereal_log"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category" : "building",
+  "ingredients" : [
+    {
+      "item": "etherealplane:ethereal_log"
+    }
+  ],
+  "result": {
+    "id": "etherealplane:ethereal_planks",
+    "count": 4
+  }
+}
